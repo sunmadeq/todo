@@ -1,0 +1,6 @@
+.idea
+.database
+
+# Environment files
+
+.env
